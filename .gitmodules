@@ -1,3 +1,12 @@
 [submodule "basic_lane_finding"]
 	path = basic_lane_finding
 	url = https://github.com/huuanhhuynguyen/basic_lane_finding.git
+[submodule "advanced_lane_finding"]
+	path = advanced_lane_finding
+	url = https://github.com/huuanhhuynguyen/advanced_lane_finding.git
+[submodule "kalman_filters"]
+	path = kalman_filters
+	url = https://github.com/huuanhhuynguyen/kalman_filters
+[submodule "particle_filters"]
+	path = particle_filters
+	url = https://github.com/huuanhhuynguyen/particle_filters.git
