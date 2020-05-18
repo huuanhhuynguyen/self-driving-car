@@ -31,7 +31,7 @@ Most algorithms are based on [Udacity Self-Driving Car Engineer Nanodegree](http
            <a href="https://www.youtube.com/watch?v=4fW9n5syoqE">
            <img src="https://github.com/huuanhhuynguyen/advanced_lane_finding/blob/master/data/thumbnail.gif"
             alt="Overview" width="130" height="100"></a>
-           <br>Advanced Lane Finding
+           <br>Adv. Lane Finding
            <br><a href="./advanced_lane_finding">(code)</a>
         </p>
     </th>
@@ -39,7 +39,7 @@ Most algorithms are based on [Udacity Self-Driving Car Engineer Nanodegree](http
            <a href="./kalman_filters/out/ekf_fusion_3.png">
            <img src="https://github.com/huuanhhuynguyen/kalman_filters/blob/master/out/ekf_fusion_3.png"
             alt="Overview" width="130" height="100"></a>
-           <br>Kalman Filters
+           <br>Ext./ Unsc. Kalman Filters
            <br><a href="./kalman_filters">(code)</a>
         </p>
     </th>
