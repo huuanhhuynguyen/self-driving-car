@@ -31,7 +31,7 @@ Most algorithms are based on [Udacity Self-Driving Car Engineer Nanodegree](http
            <a href="https://www.youtube.com/watch?v=4fW9n5syoqE">
            <img src="https://github.com/huuanhhuynguyen/advanced_lane_finding/blob/master/data/thumbnail.gif"
             alt="Overview" width="130" height="100"></a>
-           <br>Adv. Lane Finding
+           <br>Advanced Lane Finding
            <br><a href="./advanced_lane_finding">(code)</a>
         </p>
     </th>
