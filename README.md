@@ -38,7 +38,7 @@ Most algorithms are based on [Udacity Self-Driving Car Engineer Nanodegree](http
     <th><p>
            <a href="./kalman_filters/out/ekf_fusion_3.png">
            <img src="https://github.com/huuanhhuynguyen/kalman_filters/blob/master/out/ekf_fusion_3.png"
-            alt="Overview" width="100" height="100"></a>
+            alt="Overview" width="130" height="100"></a>
            <br>Kalman Filters
            <br><a href="./kalman_filters">(code)</a>
         </p>
@@ -46,7 +46,7 @@ Most algorithms are based on [Udacity Self-Driving Car Engineer Nanodegree](http
     <th><p>
            <a href="https://www.youtube.com/watch?v=qKuo6CHQeHk">
            <img src="https://github.com/huuanhhuynguyen/particle_filters/blob/master/demo.gif"
-            alt="Overview" width="100" height="100"></a>
+            alt="Overview" width="130" height="100"></a>
            <br>Particle Filter
            <br><a href="./particle_filters">(code)</a>
         </p>
