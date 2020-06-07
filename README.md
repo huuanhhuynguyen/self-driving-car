@@ -24,7 +24,7 @@ Most algorithms are based on [Udacity Self-Driving Car Engineer Nanodegree](http
            <img src="https://github.com/huuanhhuynguyen/basic_lane_finding/blob/master/data/corner.gif"
             alt="basic lane finding" width="130" height="100"></a>
            <br>Basic Lane Finding
-           <br><a href="https://github.com/huuanhhuynguyen/..../basic_lane_finding">(code)</a>
+           <br><a href="https://github.com/huuanhhuynguyen/basic_lane_finding">(code)</a>
       </p>
     </th>
     <th><p>
@@ -32,7 +32,7 @@ Most algorithms are based on [Udacity Self-Driving Car Engineer Nanodegree](http
            <img src="https://github.com/huuanhhuynguyen/advanced_lane_finding/blob/master/data/thumbnail.gif"
             alt="Advanced lane finding" width="130" height="100"></a>
            <br>Advanced Lane Finding
-           <br><a href="https://github.com/huuanhhuynguyen//advanced_lane_finding">(code)</a>
+           <br><a href="https://github.com/huuanhhuynguyen/advanced_lane_finding">(code)</a>
         </p>
     </th>
     <th><p>
