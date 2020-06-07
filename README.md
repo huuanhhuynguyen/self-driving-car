@@ -53,3 +53,14 @@ Most algorithms are based on [Udacity Self-Driving Car Engineer Nanodegree](http
     </th>
   </tr>
 </table>
+
+## Clone and Build
+
+Clone the project and init the submodules.
+```
+$ git clone https://github.com/huuanhhuynguyen/self-driving-car.git
+$ cd self-driving-car
+$ git submodule init
+$ git submodule update
+```
+Every submodule has its own build instruction described in its README.
