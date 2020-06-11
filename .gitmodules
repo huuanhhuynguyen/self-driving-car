@@ -2,6 +2,7 @@
 	path = basic_lane_finding
 	url = https://github.com/huuanhhuynguyen/basic_lane_finding.git
 	branch = master
+	update = master
 [submodule "advanced_lane_finding"]
 	path = advanced_lane_finding
 	url = https://github.com/huuanhhuynguyen/advanced_lane_finding.git
