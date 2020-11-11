@@ -8,7 +8,7 @@
 	branch = master
 [submodule "kalman_filters"]
 	path = kalman_filters
-	url = https://github.com/huuanhhuynguyen/kalman_filters
+	url = https://github.com/huuanhhuynguyen/kalman_filters.git
 	branch = master
 [submodule "particle_filters"]
 	path = particle_filters
