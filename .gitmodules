@@ -1,6 +1,6 @@
 [submodule "basic_lane_finding"]
 	path = basic_lane_finding
-	url = https://github.com/huuanhhuynguyen/basic_lane_finding.git
+	url = https://github.com/huuanhhuynguyen/basic_lane_finding/tree/master/
 	branch = master
 [submodule "advanced_lane_finding"]
 	path = advanced_lane_finding
